@@ -1,10 +1,14 @@
-# plant_app_ui
+# Plant App UI
 
-A new Flutter project.
+This Flutter project is a single-page application showcasing a clean and modern user interface for a plant management app. The focus of this project is on UI design, with no functionalities or routing implemented.
 
-## Getting Started
+**Key Features:**
+- Modern and intuitive UI design
+- Single-page layout for demonstration purposes
 
-This project is a starting point for a Flutter application.
+**Note:** As a UI-focused project, it does not include any interactive features or backend integration.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
